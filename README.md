@@ -7,5 +7,7 @@ calculation of the scalar product of two vectors, the length of the vector, the 
 
 ## Task 2
 In the previous task, create two methods using JSON serialization and deserialization.
+
 Method 1. Saves the created class object from Task 1 to a JSON file
+
 Method 2: Opens a JSON file with data and creates a class object with the data to perform Task 1.
